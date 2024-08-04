@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hetzner-capi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-04T20:34:02.106955+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 56e5caf39887b3c6c171ea1373491e3a14db47cc088bf59f7e0b807b9808911d
+    name: hetzner-capi
+    type: application
+    urls:
+    - https://noelhermans.github.io/hetzner-caph/packages/hetzner-capi-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-04T20:34:02.105605+02:00"
