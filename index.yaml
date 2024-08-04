@@ -9,6 +9,6 @@ entries:
     name: hetzner-capi
     type: application
     urls:
-    - https://noelhermans.github.io/hetzner-caph/packages/hetzner-capi-0.1.0.tgz
+    - https://noelhermans.github.io/hetzner-capi-clusters/packages/hetzner-capi-0.1.0.tgz
     version: 0.1.0
 generated: "2024-08-04T20:34:02.105605+02:00"
